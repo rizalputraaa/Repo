@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raekhandi Yoga Gusmawan</h1>
+<h1 align="center">Hi, I'm Rizal Maulana Ramadhani </h1>
 <h3 align="center">Back End Developer | #KNTL Kids Need To Learn 🐧</h3>
 
 <br><br>
