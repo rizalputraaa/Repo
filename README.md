@@ -25,8 +25,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ahlfs/count.svg?"  />
-</div>
-
-###
